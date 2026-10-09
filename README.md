@@ -1,63 +1,60 @@
-# Hi, I'm Jeevan C 👋
+Hi, I’m Jeevan C 👋
 
-### Aspiring AI/ML Engineer | Python Developer | BE in Artificial Intelligence and Machine Learning
+Aspiring AI/ML Engineer | Python Developer | Artificial Intelligence & Machine Learning Graduate
 
-I am an engineering graduate interested in building practical
-machine learning, natural language processing, and data-driven
-applications using Python.
+I am an engineering graduate interested in developing practical machine learning, natural language processing, and data-driven applications using Python.
 
-I enjoy working with data preprocessing, model development,
-evaluation, and analytical problem-solving.
+I enjoy exploring data preprocessing, model development, evaluation, and analytical problem-solving through hands-on projects.
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🚦 Emergency-Aware Smart Traffic Signal Management
-A Python-based simulation that identifies the nearest hospital,
-generates an emergency priority corridor, and calculates
-traffic signal green-light durations.
+🚦 Emergency-Aware Smart Traffic Signal Management
 
-**Technologies:** Python, NumPy, Pandas, Matplotlib
+A Python-based simulation that prioritizes emergency traffic, calculates traffic signal timings, and supports nearest-hospital routing.
 
-[View Project](https://github.com/jeevanc2706-arjun/emergency-aware-smart-traffic)
+Technologies: Python, NumPy, Pandas, Matplotlib
 
-### 📈 IntelliTrade AI
-An educational machine learning framework for cryptocurrency
-market-trend analysis, signal generation, explainability,
-and basic risk analysis.
+View Project
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
+📈 IntelliTrade AI
 
-[View Project](https://github.com/jeevanc2706-arjun/intellitrade-ai)
+An educational machine learning project for cryptocurrency market-trend analysis, signal generation, explainability, and basic risk analysis.
 
-### 🧠 Emotion Detection NLP
-A text classification project exploring TF-IDF feature extraction,
-machine learning, and emotion classification.
+Technologies: Python, Pandas, NumPy, Scikit-learn
 
-**Technologies:** Python, NLP, TF-IDF, Scikit-learn, SVM
+View Project
 
-[View Project](https://github.com/jeevanc2706-arjun/emotion-detection-nlp)
+🧠 Emotion Detection NLP
 
-### 🌸 Iris Flower Classification Using SVM
-A supervised machine learning project that classifies Iris flower
-species using their sepal and petal measurements.
+A text classification project exploring TF-IDF feature extraction and machine learning techniques for emotion classification.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, SVM
+Technologies: Python, NLP, TF-IDF, Scikit-learn, SVM
 
-[View Project](https://github.com/jeevanc2706-arjun/iris-svm-classification)
+View Project
 
-## 🛠️ Technical Skills
+🌸 Iris Flower Classification Using SVM
 
-- **Programming:** Python, SQL, Java
-- **Machine Learning:** Classification, SVM, model evaluation
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **NLP:** Text preprocessing, TF-IDF, text classification
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+A supervised machine learning project that classifies Iris flower species using sepal and petal measurements.
 
-## 🎯 Career Interests
+Technologies: Python, Pandas, NumPy, Scikit-learn, SVM
 
-Entry-level AI/ML Engineer | Python Developer |
-Machine Learning Intern | Data Analyst
+View Project
 
-## 📫 Contact
+🛠️ Technical Skills
+
+* Programming Languages: Python, SQL, Java
+* Machine Learning: Classification, Support Vector Machines, Model Evaluation
+* Data Analysis: Pandas, NumPy, Matplotlib
+* Natural Language Processing: TF-IDF, Text Preprocessing, Text Classification
+* Tools: Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+
+🎯 Career Interests
+
+* Entry-Level AI/ML Engineer
+* Python Developer
+* Machine Learning Intern
+* Graduate Engineer Trainee
+
+📫 Contact
 
 Email: jeevanc2706@gmail.com
