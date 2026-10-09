@@ -1,6 +1,6 @@
-Hi, I’m Jeevan C 👋
+# Hi, I’m Jeevan C 👋
 
-Aspiring AI/ML Engineer | Python Developer | Artificial Intelligence & Machine Learning Graduate
+### Aspiring AI/ML Engineer | Python Developer | Artificial Intelligence & Machine Learning Graduate
 
 I am an engineering graduate interested in developing practical machine learning, natural language processing, and data-driven applications using Python.
 
@@ -43,7 +43,7 @@ species using their sepal and petal measurements.
 [View Project](https://github.com/jeevanc2706-arjun/iris-svm-classification)
 
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 * Programming Languages: Python, SQL, Java
 * Machine Learning: Classification, Support Vector Machines, Model Evaluation
@@ -51,7 +51,7 @@ species using their sepal and petal measurements.
 * Natural Language Processing: TF-IDF, Text Preprocessing, Text Classification
 * Tools: Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
-🎯 Career Interests
+## 🎯 Career Interests
 
 * Entry-Level AI/ML Engineer
 * data analyst
@@ -59,6 +59,6 @@ species using their sepal and petal measurements.
 * Machine Learning Intern
 * Graduate Engineer Trainee
 
-📫 Contact
+## 📫 Contact
 
 Email: jeevanc2706@gmail.com
