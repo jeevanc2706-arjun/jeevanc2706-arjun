@@ -6,39 +6,42 @@ I am an engineering graduate interested in developing practical machine learning
 
 I enjoy exploring data preprocessing, model development, evaluation, and analytical problem-solving through hands-on projects.
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🚦 Emergency-Aware Smart Traffic Signal Management
+### 🚦 Emergency-Aware Smart Traffic Signal Management
+A Python-based simulation that identifies the nearest hospital,
+generates an emergency priority corridor, and calculates
+traffic signal green-light durations.
 
-A Python-based simulation that prioritizes emergency traffic, calculates traffic signal timings, and supports nearest-hospital routing.
+*Technologies:* Python, NumPy, Pandas, Matplotlib
 
-Technologies: Python, NumPy, Pandas, Matplotlib
+[View Project](https://github.com/jeevanc2706-arjun/emergency-aware-smart-traffic)
 
-View Project
+### 📈 IntelliTrade AI
+An educational machine learning framework for cryptocurrency
+market-trend analysis, signal generation, explainability,
+and basic risk analysis.
 
-📈 IntelliTrade AI
+*Technologies:* Python, Pandas, NumPy, Scikit-learn
 
-An educational machine learning project for cryptocurrency market-trend analysis, signal generation, explainability, and basic risk analysis.
+[View Project](https://github.com/jeevanc2706-arjun/intellitrade-ai)
 
-Technologies: Python, Pandas, NumPy, Scikit-learn
+### 🧠 Emotion Detection NLP
+A text classification project exploring TF-IDF feature extraction,
+machine learning, and emotion classification.
 
-View Project
+*Technologies:* Python, NLP, TF-IDF, Scikit-learn, SVM
 
-🧠 Emotion Detection NLP
+[View Project](https://github.com/jeevanc2706-arjun/emotion-detection-nlp)
 
-A text classification project exploring TF-IDF feature extraction and machine learning techniques for emotion classification.
+### 🌸 Iris Flower Classification Using SVM
+A supervised machine learning project that classifies Iris flower
+species using their sepal and petal measurements.
 
-Technologies: Python, NLP, TF-IDF, Scikit-learn, SVM
+*Technologies:* Python, Pandas, NumPy, Scikit-learn, SVM
 
-View Project
+[View Project](https://github.com/jeevanc2706-arjun/iris-svm-classification)
 
-🌸 Iris Flower Classification Using SVM
-
-A supervised machine learning project that classifies Iris flower species using sepal and petal measurements.
-
-Technologies: Python, Pandas, NumPy, Scikit-learn, SVM
-
-View Project
 
 🛠️ Technical Skills
 
@@ -51,6 +54,7 @@ View Project
 🎯 Career Interests
 
 * Entry-Level AI/ML Engineer
+* data analyst
 * Python Developer
 * Machine Learning Intern
 * Graduate Engineer Trainee
